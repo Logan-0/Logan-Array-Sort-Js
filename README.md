@@ -1,9 +1,15 @@
-I made this because sometimes when your dealing with code in Node.Js, like a promise chain. I wanted a way I could handle it for myself easier. Nothing special may be updated in the Future.
+I made this because sometimes when your dealing with code in Node.Js, like a promise chain, you want a way that works how you want it, and simple for a first package. Nothing special may be updated in the Future.
 
 
 USES -> {
+
     Json array with String or Number Attributes;
-    e.g. lastName = "Johnson", age = 5, or dateJoined = "Jan 11th, 2008"
+
+    e.g. 
+    
+    lastName = "Johnson", 
+    age = 5,
+    dateJoined = "Jan 11th, 2008"
 }
 
 Example 
@@ -44,4 +50,3 @@ SampleFile ***************************
         })
 
     })
-}
