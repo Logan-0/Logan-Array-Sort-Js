@@ -1,0 +1,25 @@
+{
+  "name": "l-clean-sort",
+  "version": "1.0.0",
+  "description": "Simple Object Sorter",
+  "main": "CleanSorter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Logan-0/various.git"
+  },
+  "keywords": [
+    "Simple",
+    "Sort",
+    "Object",
+    "Attr"
+  ],
+  "author": "Logan Carpenter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Logan-0/various/issues"
+  },
+  "homepage": "https://github.com/Logan-0/various#readme"
+}
