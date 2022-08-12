@@ -9,8 +9,6 @@
 */
 
 
-
-
 /** 
  * Comparing the string in a Json Object attr such as "lastName", or "firstName"
  * s1: String1, s2: String2
