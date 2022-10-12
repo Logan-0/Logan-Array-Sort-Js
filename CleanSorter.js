@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 /**
 * 
 * Logan's Simple Object Sorter
