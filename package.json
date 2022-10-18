@@ -1,0 +1,28 @@
+{
+  "name": "logan-array-sort-js",
+  "version": "1.0.4",
+  "description": "Sorting arrays in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Logan-0/Logan-Array-Sort-Js.git"
+  },
+  "author": "Logan Carpenter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Logan-0/Logan-Array-Sort-Js/issues"
+  },
+  "homepage": "https://github.com/Logan-0/Logan-Array-Sort-Js#readme",
+  "keywords": [
+    "Array",
+    "Js",
+    "Number",
+    "String",
+    "Date",
+    "Logan",
+    "Sort"
+  ]
+}
