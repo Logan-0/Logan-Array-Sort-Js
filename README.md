@@ -2,26 +2,23 @@
 
 ##1. sortStringArray(arrayOfString)
 - Takes one argument, array containing strings
-- ["Alphabet", "Car brand A", "Car brand B", "alphabet"]
+- `["Alphabet", "Car brand A", "Car brand B", "alphabet"]`
 - Returns in alphabetical order, remember capital letters will be before lowercase
 - e.g. "Arial" will come before "arial"
 
 ##2. sortNumberArray(arrayOfNumbers)
 - Takes one argument, array containing numbers
-- [100,22,34,47,58,61]
+- `[100,22,34,47,58,61]`
 - Returns lowest number first
 
 ##3. sortDateArray(arrayOfStringDates)
 - Takes Takes one argument, array containing dates
 - Date Patterns for string array: "YYYY-MM-DD" -> ISO Standard, therefore, browser independent
-- ["YYYY-MM-DD", "YYYY-MM-DD", "YYYY-MM-DD", "YYYY-MM-DD"]
+- `["YYYY-MM-DD", "YYYY-MM-DD", "YYYY-MM-DD", "YYYY-MM-DD"]`
 - Returns the earlist date first
 
 
 -----------> Example Output
-
-cmd:
-node index.js
 
 
 ###String array BEFORE sorting: 
