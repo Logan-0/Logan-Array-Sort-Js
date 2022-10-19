@@ -1,7 +1,6 @@
 /**
 * 
 * Logan's Simple Array Sorter
-* Version: 1.0.0
 * Date Started: 08/12/22
 * Date Last Updated: 10/19/22
 * Last Updated By: Logan-0
