@@ -3,7 +3,7 @@
 * Logan's Simple Array Sorter
 * Version: 1.0.0
 * Date Started: 08/12/22
-* Date Last Updated: 08/12/22
+* Date Last Updated: 10/19/22
 * Last Updated By: Logan-0
 * 
 */
@@ -11,8 +11,6 @@
 
 /** 
  * Comparing the string in a Json Object attr such as "lastName", or "firstName"
- * s1: String1, s2: String2
- * lc1: lowercase String1, lc2: lowercaseString2
  * 
  * compare values and return
  */
@@ -63,4 +61,4 @@ function sortDateArray(dateArray) {
     return tempHoldingVar
 }
 
-module.exports = { compareDate, compareNumber, compareString }
+module.exports = { sortDateArray, sortNumberArray, sortStringArray }
